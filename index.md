@@ -61,11 +61,11 @@
 <table class="table table-striped table-bordered table-vcenter" align="center">
   <tbody>
     <tr>
-      <th> 类别 </th>
-      <th> 项目名/ProjName </th>
-      <th> 描述/Description </th>
-      <th> 赞/Stars </th>
-      <th> 进度/Progressing </th>
+      <th> 类别<br/>Type </th>
+      <th> 项目名<br/>ProjName </th>
+      <th> 描述<br/>Description </th>
+      <th> 赞<br/>Stars </th>
+      <th> 进度<br/>Progressing </th>
     </tr>
     <tr>
         <td> 笔记 </td>
@@ -325,11 +325,11 @@
 <table class="table table-striped table-bordered table-vcenter" align="center">
   <tbody>
     <tr>
-      <th> 类别 </th>
-      <th> 项目名/ProjName </th>
-      <th> 描述/Description </th>
-      <th> 赞/Stars </th>
-      <th> 进度/Progressing </th>
+      <th> 类别<br/>Type </th>
+      <th> 项目名<br/>ProjName </th>
+      <th> 描述<br/>Description </th>
+      <th> 赞<br/>Stars </th>
+      <th> 进度<br/>Progressing </th>
     </tr>
     <tr>
         <td> 构建 </td>
