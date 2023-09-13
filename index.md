@@ -71,9 +71,9 @@
         <td> 笔记 </td>
         <td align="center">
             <a href="https://github.com/yifengyou/LinuxHacker" target="_blank"> LinuxHacker</a>
-            <img alt="Progressing" src="https://img.shields.io/badge/应用、解析-d00000"/>
+            <img alt="Progressing" src="https://img.shields.io/badge/笔记-d00000"/>
         </td>
-        <td> LinuxHacker </td>
+        <td> Linux内核学习笔记 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/LinuxHacker?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
@@ -497,7 +497,7 @@
             <a href="https://github.com/yifengyou/tmux" target="_blank"> tmux</a>
             <img alt="Progressing" src="https://img.shields.io/badge/自研-d00000"/>
         </td>
-        <td> tmux 配置文件 </td>
+        <td> 自用tmux配置 </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/yifengyou/tmux?style=flat-square&labelColor=black"/></td>
         <td><img alt="Progressing" src="https://img.shields.io/badge/progress-1%25-green&logo=github"/></td>
     </tr>
